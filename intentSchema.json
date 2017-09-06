@@ -1,0 +1,13 @@
+{
+  "intents" : [ {
+    "intent" : "AboutGameIntent",
+    "slots": [
+      {
+        "name": "string",
+        "type": "string"
+      }
+    ]
+  }
+
+  ]
+}
