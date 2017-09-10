@@ -3,8 +3,8 @@
     "intent" : "AboutGameIntent",
     "slots": [
       {
-        "name": "string",
-        "type": "string"
+        "name": "Game",
+        "type": "GAME"
       }
     ]
   }

@@ -1,0 +1,4 @@
+AboutGameIntent {string}
+AboutGameIntent about {string}
+AboutGameIntent tell me about {string}
+AboutGameIntent what is {string}
